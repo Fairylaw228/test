@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\xml_files.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\xml\\files.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xhdpi_no_prod_img.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-xhdpi\\no_prod_img.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-mdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-mdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-hdpi_ic_done.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-hdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xhdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xxhdpi_ic_done.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-xxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-mdpi_no_prod_img.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-mdpi\\no_prod_img.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-hdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xxxhdpi_no_prod_img.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-xxxhdpi\\no_prod_img.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-mdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xxxhdpi_ic_done.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-xxxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\layout_fragment_product.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\layout\\fragment_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-ldpi_ic_add.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-pngs-31:\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-hdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\layout_activity_catalog.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\layout\\activity_catalog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-hdpi_no_prod_img.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-hdpi\\no_prod_img.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-mdpi_ic_add.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-pngs-31:\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xxxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-pngs-31:\\drawable-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-hdpi_ic_add.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-pngs-31:\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xxhdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-xxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-pngs-31:\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-pngs-31:\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xxhdpi_no_prod_img.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-xxhdpi\\no_prod_img.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-pngs-31:\\drawable-anydpi-v21\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\layout_activity_product.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "com.example.android.stockkeepingassistant.app-merged_res-36:/layout_activity_buy.xml.flat",
+        "source": "com.example.android.stockkeepingassistant.app-main-38:/layout/activity_buy.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable_quantity_circle.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable\\quantity_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-xhdpi_ic_done.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-xhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\drawable-mdpi_ic_done.png.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\drawable-mdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\layout_activity_user.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\menu_fragment_product.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\menu\\fragment_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sasha\\.gradle\\daemon\\7.5\\com.example.android.stockkeepingassistant.app-main-38:\\layout\\activity_main.xml"
+    }
+]
